@@ -6,3 +6,8 @@ if country == 'TW':
 		print('你可以考駕照了喔')
 	else:
 		print('乖乖走路')
+elif country == 'US':
+	if age >= 16:
+		print('you can drive lol')
+	else:
+		print('walk bitch')
